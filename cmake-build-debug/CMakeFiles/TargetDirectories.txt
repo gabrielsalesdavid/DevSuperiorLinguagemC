@@ -1,3 +1,0 @@
-C:/Users/GSD/CLionProjects/DevSuperiorLinguagemC/cmake-build-debug/CMakeFiles/DevSuperiorLinguagemC.dir
-C:/Users/GSD/CLionProjects/DevSuperiorLinguagemC/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/GSD/CLionProjects/DevSuperiorLinguagemC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
