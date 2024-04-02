@@ -18,4 +18,5 @@ add_executable(DevSuperiorLinguagemC main.c
         SaidaDeDadosEmC.c
         SolucaoIdade.c
         SolucaoNotas.c
+        SolucaoBaskara.c
 )
