@@ -21,4 +21,5 @@ add_executable(DevSuperiorLinguagemC main.c
         SolucaoBaskara.c
         SolucaoMenorDeTres.c
         SolucaoCrescente.c
+        SolucaoMediaIdade.c
 )
