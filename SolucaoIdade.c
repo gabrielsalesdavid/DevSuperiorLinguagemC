@@ -5,7 +5,7 @@ int main() {
     int idade01, idade02;
     double media;
 
-    printf("Dados da primeira pessoa: ");
+    printf("\nDados da primeira pessoa: ");
     printf("\nNome: ");
     gets(nome01);
     printf("Idade: ");
