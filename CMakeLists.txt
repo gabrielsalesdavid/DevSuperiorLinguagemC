@@ -7,4 +7,14 @@ add_executable(DevSuperiorLinguagemC main.c
         MatrizesEmC.c
         MatrizesEmC.c
         SolucaoRetangulo.c
+        SolucaoIdade.c
+        EntradaDeDadosEmC.c
+        EstruturaCondicional.c
+        EstruturaDoWhile.c
+        EstruturaEnquanto.c
+        EstruturaFor.c
+        PrimeiroPassosEmC.c
+        ProcessamentoCastingEmC.c
+        SaidaDeDadosEmC.c
+        SolucaoIdade.c
 )
