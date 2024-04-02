@@ -13,15 +13,15 @@ int main () {
 
     for (i = 0; i < m; i++) {
        for (j = 0; j < n; j++) {
-           printf("Elemento [%d, %d]: ", i, j);
-           scanf("%d", &mat[i][j]);
+           printf("Elemento [%d,%d]: ", i, j);
+           scanf("%d ", &mat[i][j]);
        }
     }
 
     printf("\nMatriz digitada:\n");
     for (i = 0; i < m; i++) {
         for (j = 0; j < n; j++) {
-           printf("%d", mat[i][j]);
+           printf("%d ", mat[i][j]);
        }
         printf("\n");
     }
