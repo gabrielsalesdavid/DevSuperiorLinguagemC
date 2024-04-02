@@ -17,4 +17,5 @@ add_executable(DevSuperiorLinguagemC main.c
         ProcessamentoCastingEmC.c
         SaidaDeDadosEmC.c
         SolucaoIdade.c
+        cmake-build-debug/SolucaoNotas.c
 )
