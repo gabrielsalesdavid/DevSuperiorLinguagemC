@@ -22,4 +22,5 @@ add_executable(DevSuperiorLinguagemC main.c
         SolucaoMenorDeTres.c
         SolucaoCrescente.c
         SolucaoMediaIdade.c
+        cmake-build-debug/PRoblemaTabuada.c
 )
