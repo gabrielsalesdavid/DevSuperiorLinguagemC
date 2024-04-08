@@ -25,4 +25,5 @@ add_executable(DevSuperiorLinguagemC main.c
         cmake-build-debug/PRoblemaTabuada.c
         ProblemaSomaImpares.c
         ProblemaSomaImpares.c
+        ProblemaMegativos.c
 )
