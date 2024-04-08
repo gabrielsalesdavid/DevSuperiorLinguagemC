@@ -23,4 +23,6 @@ add_executable(DevSuperiorLinguagemC main.c
         SolucaoCrescente.c
         SolucaoMediaIdade.c
         cmake-build-debug/PRoblemaTabuada.c
+        ProblemaSomaImpares.c
+        ProblemaSomaImpares.c
 )
