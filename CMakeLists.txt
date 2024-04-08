@@ -27,4 +27,5 @@ add_executable(DevSuperiorLinguagemC main.c
         ProblemaSomaImpares.c
         ProblemaMegativos.c
         ProblemaSomaVetor.c
+        ProblemasAlturas.c
 )
